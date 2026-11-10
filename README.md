@@ -1,3 +1,4 @@
+#VERDADEIRO
 # Banho e Tosa Pet Peludinho — Site
 
 Site institucional simples (HTML + CSS + JS puro, sem build) para o
